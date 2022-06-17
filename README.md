@@ -1,1 +1,1 @@
-# systemic_crisis_prediction
+# african_economy
