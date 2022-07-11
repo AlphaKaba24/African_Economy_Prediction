@@ -11,7 +11,9 @@ DATA: African Economic data that includes key features that equate to a countrie
 ## Methods
 
 > Data preparation for modeling: Cleaning(duplicates, etc.), Feature Engineering (Creating a regional column to use to explain my insights through that lense), addressing inconsistent categories, etc.
+
 > Visualizations: (regplot, despine, etc.) to gain a further understanding of African economics
+
 > ML models of choice: KNN, Linear Regression
 
 **RESULTS**
