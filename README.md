@@ -30,3 +30,8 @@ DATA: African Economic data that includes key features that equate to a countrie
 ![GDP and Household Financial Income](https://user-images.githubusercontent.com/97268064/178424124-2464d8d5-783e-495f-9c08-d8c6edb40e4e.png)
 
 >Household Financial income obviously plays a big part in igniting an economic spark. When countries generally have more spending power, they typically (not always) have thriving economies.
+
+
+## Model
+
+KNN, Decision Tree, Linear Regression
