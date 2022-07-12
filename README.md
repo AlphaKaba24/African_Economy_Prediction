@@ -17,3 +17,7 @@ DATA: African Economic data that includes key features that equate to a countrie
 > ML models of choice: KNN, Linear Regression
 
 **RESULTS**
+
+**African GDP Growth Regionally**
+
+![Africa regional GDP growth](https://user-images.githubusercontent.com/97268064/178423668-f24cdf0b-cc31-4cce-be7d-32c91d1f8f08.png)
