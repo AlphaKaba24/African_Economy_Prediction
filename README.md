@@ -20,9 +20,10 @@ DATA: African Economic data that includes key features that equate to a countrie
 
 **African GDP Growth Regionally**
 
-![Africa regional GDP growth](https://user-images.githubusercontent.com/97268064/178423668-f24cdf0b-cc31-4cce-be7d-32c91d1f8f08.png)
+![download](https://user-images.githubusercontent.com/97268064/178793548-37d9c21f-2a4b-4221-8b30-ba092d53f7b3.png)
 
->West African Countries experience an explosion of GDP growth year after year especially compared to other regions. It makes sense when you consider it includes Economic powerhouses like Nigeria for instance.
+
+>North African Countries experience an explosion of GDP growth year after year especially compared to other regions. It makes sense when you consider it includes Economic powerhouses like Egypt for instance.
 
 
 **Correlation between Household Financial Income and GDP Growth**
